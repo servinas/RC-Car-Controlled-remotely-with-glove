@@ -14,3 +14,6 @@ Our project can be divided into two parts: The first part is the glove that is u
 [DC motors](https://ram-e-shop.com/product/ro-wheel-motor-dg01d/)
 
 [Wheels]( https://ram-e-shop.com/product/ro-wheel-rw002-2/)
+
+### **Code:** 
+the code divides into two parts: First part transmitter code which is used to read the difference in two axes and send data to robot car The second part receiver code which receives data and moves robot car
